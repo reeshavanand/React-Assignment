@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Assignment/static/css/main.b5e4e89c.chunk.css",
+    "main.js": "/React-Assignment/static/js/main.35069807.chunk.js",
+    "main.js.map": "/React-Assignment/static/js/main.35069807.chunk.js.map",
+    "runtime-main.js": "/React-Assignment/static/js/runtime-main.abfcedde.js",
+    "runtime-main.js.map": "/React-Assignment/static/js/runtime-main.abfcedde.js.map",
+    "static/js/2.d131d22b.chunk.js": "/React-Assignment/static/js/2.d131d22b.chunk.js",
+    "static/js/2.d131d22b.chunk.js.map": "/React-Assignment/static/js/2.d131d22b.chunk.js.map",
+    "static/js/3.2a92868d.chunk.js": "/React-Assignment/static/js/3.2a92868d.chunk.js",
+    "static/js/3.2a92868d.chunk.js.map": "/React-Assignment/static/js/3.2a92868d.chunk.js.map",
+    "index.html": "/React-Assignment/index.html",
+    "static/css/main.b5e4e89c.chunk.css.map": "/React-Assignment/static/css/main.b5e4e89c.chunk.css.map",
+    "static/js/2.d131d22b.chunk.js.LICENSE.txt": "/React-Assignment/static/js/2.d131d22b.chunk.js.LICENSE.txt",
+    "static/media/cart.238f09b5.jpg": "/React-Assignment/static/media/cart.238f09b5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abfcedde.js",
+    "static/js/2.d131d22b.chunk.js",
+    "static/css/main.b5e4e89c.chunk.css",
+    "static/js/main.35069807.chunk.js"
+  ]
+}
